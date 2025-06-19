@@ -5,6 +5,7 @@
 ```
 cd backend
 npm install
+# installs dependencies such as express, dotenv and cors
 cp .env.example .env
 # edit .env with your database credentials
 npm run dev
